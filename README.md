@@ -1,7 +1,7 @@
 # 🧠 Spam Email Detector
 
 This is a simple spam detector web app built with Flask + TailwindCSS + scikit-learn.
-![Spam Email Detector UI](spam-image.png)
+![Spam Email Detector UI](Images/spam-image.png)
 
 ## 🚀 Features
 - Paste or upload email content
